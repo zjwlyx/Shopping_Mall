@@ -1,4 +1,4 @@
-# Shopping_Mall
+# Shopping_Mall Website
     A Spring and Hibernate based Shopping and Ordering system.
     Techniques invovled: 
         - Spring
